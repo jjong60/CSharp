@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumber", "FindNumber.csproj", "{2C9211EC-C48F-43AA-B7D2-1D124C56E488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9211EC-C48F-43AA-B7D2-1D124C56E488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9211EC-C48F-43AA-B7D2-1D124C56E488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9211EC-C48F-43AA-B7D2-1D124C56E488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9211EC-C48F-43AA-B7D2-1D124C56E488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F817D6-3F84-4A49-A119-C392B02FBB0B}
+	EndGlobalSection
+EndGlobal
