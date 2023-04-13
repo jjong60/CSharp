@@ -107,7 +107,7 @@ info: Microsoft.Hosting.Lifetime[0]
 
 - 웹 페이지 결과
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%20fa61af8d2d1c4739a6232811e91f6bb1/Untitled.png)
+![Untitled](assets/Untitled.png)
 
 - 코드를 수정하고 저장하면 웹 브라우저에 자동으로 바뀐 코드가 적용됨.
 - 서버의 index.cshtml 파일을 수정하면 클라이언트가 요청할 때 변경된 코드에 맞게 생성된 HTML 응답을 보내주고 클라이언트는 HTML 응답을 해석해 사용자에게 보여줌.
@@ -127,6 +127,6 @@ info: Microsoft.Hosting.Lifetime[0]
 
 - 도전코딩 웹 페이지 결과
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%20fa61af8d2d1c4739a6232811e91f6bb1/Untitled%201.png)
+![Untitled](assets/Untitled%201.png)
 
 - index.cshtml 파일에서 코드는 @ 기호 뒤에 입력합니다. 코드 블록은 @{ } 처럼 중괄호 안에 여러 줄의 코드를 작성할 수 있음.
